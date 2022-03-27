@@ -36,7 +36,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
-## Image of Project
+## Images for the Project
 
 The following image shows the web application's appearance and functionality:
 
