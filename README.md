@@ -40,9 +40,10 @@ THEN I find a concise, descriptive title
 
 The following image shows the web application's appearance and functionality:
 
-
-
-<image src="https://user-images.githubusercontent.com/94832331/160284838-85ad3728-45a1-43c2-b738-a0e841225d75.png" width=500 height=250> 
+<image src="https://user-images.githubusercontent.com/94832331/160287095-ce7e3692-1700-488c-88ff-29e478867c62.png" width=300 height=150> 
+  
+  
+  
 > **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. 
 > 
 
