@@ -20,7 +20,7 @@ I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 ```
 
-## Acceptance Criteria
+## Concept of the design and function
 
 ```
 GIVEN a webpage meets accessibility standards
