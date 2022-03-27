@@ -42,6 +42,7 @@ The following image shows the web application's appearance and functionality:
 
 <image src="https://user-images.githubusercontent.com/94832331/160287095-ce7e3692-1700-488c-88ff-29e478867c62.png" width=300 height=150> 
   
+<image src="https://user-images.githubusercontent.com/94832331/160287180-79b0f59a-845e-42d6-be04-23947f9e1cb4.png" width=300 height=150> 
   
   
 > **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. 
